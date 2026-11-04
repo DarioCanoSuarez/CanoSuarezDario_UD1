@@ -24,9 +24,6 @@ Proceso de Java localizado mientras el programa esperaba en `¿Cuántas notas?`:
 | Estado | `S` (sleeping): bloqueado esperando el teclado |
 | Hilos | 19 |
 
-Captura: `img/proceso.png`
-
-![Proceso de Java](img/proceso.png)
 
 **Explicación:** mientras espera el teclado, el proceso está **bloqueado**: el sistema operativo lo saca de la CPU hasta que llegue una pulsación, por eso consume casi 0 % de procesador. Aun así sigue ocupando memoria, sobre todo la de la propia JVM (código de la máquina virtual, clases cargadas, montículo reservado, pilas de hilos).
 
