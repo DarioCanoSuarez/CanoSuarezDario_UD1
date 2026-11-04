@@ -155,14 +155,6 @@ Una historia de usuario se considerará completada y lista para entrega únicame
 
 ---
 
-## Tablero
-
-* **Enlace al proyecto público en GitHub Projects**:  
-  `https://github.com/users/DarioCanoSuarez/projects/1` *(Sustituye la ruta por el enlace real a tu proyecto público llamado "Polideportivo Los Álamos - DarioCanoSuarez")*
-
-
----
-
 ## Preguntas
 
 1. **¿Qué ventajas tiene estimar las historias en puntos de historia en lugar de horas de trabajo?**  
