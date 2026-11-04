@@ -160,8 +160,6 @@ Una historia de usuario se considerará completada y lista para entrega únicame
 * **Enlace al proyecto público en GitHub Projects**:  
   `https://github.com/users/DarioCanoSuarez/projects/1` *(Sustituye la ruta por el enlace real a tu proyecto público llamado "Polideportivo Los Álamos - DarioCanoSuarez")*
 
-* **Captura del tablero**:  
-  ![Tablero GitHub Projects](img/tablero.png)
 
 ---
 
